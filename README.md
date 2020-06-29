@@ -1,6 +1,6 @@
 # Self-DrivingCar
 
-In this repository I will update with several projects for the Self-Driving Car NanoDegree Program from Udacity. The first featured project is the Traffic Light Classifier. Read below for more information about this project.
+In this repository I will update with several projects for the Self-Driving Car NanoDegree Program from Udacity. The first featured project is the Traffic Light Classifier. Read below for more information about this project:
 
 # Traffic Light Classifier
 In this project, I used my knowledge of computer vision techniques to build a classifier for images of traffic lights! I was provided a dataset of traffic light images in which one of three lights is illuminated: red, yellow, or green.
